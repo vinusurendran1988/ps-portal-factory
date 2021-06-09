@@ -1,5 +1,4 @@
 import React from 'react'
-import styles from './styles.module.css'
 
 import 'primeflex/primeflex.css';
 import 'primereact/resources/themes/saga-blue/theme.css';
